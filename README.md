@@ -1,0 +1,1 @@
+This is a ESP8266 based projekt that has a LED strip and a speaker via DFPlayerMini attached. It produces light and music when a button is pressed.
